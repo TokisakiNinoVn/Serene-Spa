@@ -1,0 +1,22 @@
+{
+    "en": {
+        "title": "Welcome to My App Policies",
+        "description":
+            "This website provides information about our terms of use, privacy policy, and customer support for users of the mobile app.",
+        "buttons": {
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service",
+            "support": "Support"
+        }
+    },
+    "vi": {
+        "title": "Chào mừng bạn đến với chính sách ứng dụng",
+        "description":
+            "Trang web này cung cấp thông tin về điều khoản sử dụng, chính sách bảo mật và hỗ trợ khách hàng cho người dùng ứng dụng di động.",
+        "buttons": {
+            "privacy": "Chính sách bảo mật",
+            "terms": "Điều khoản sử dụng",
+            "support": "Hỗ trợ"
+        }
+    }
+}
