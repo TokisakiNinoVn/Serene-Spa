@@ -1,22 +1,64 @@
 {
-    "en": {
-        "title": "Welcome to My App Policies",
-        "description":
-            "This website provides information about our terms of use, privacy policy, and customer support for users of the mobile app.",
-        "buttons": {
-            "privacy": "Privacy Policy",
-            "terms": "Terms of Service",
-            "support": "Support"
-        }
-    },
-    "vi": {
-        "title": "Chào mừng bạn đến với chính sách ứng dụng",
-        "description":
-            "Trang web này cung cấp thông tin về điều khoản sử dụng, chính sách bảo mật và hỗ trợ khách hàng cho người dùng ứng dụng di động.",
-        "buttons": {
-            "privacy": "Chính sách bảo mật",
-            "terms": "Điều khoản sử dụng",
-            "support": "Hỗ trợ"
-        }
+  "en": {
+    "title": "Terms of Service",
+    "description": "By using the Serene Spa app, you agree to the following terms and conditions, which govern your use of our services.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By accessing or using the Serene Spa app, you agree to be bound by these Terms of Service. If you do not agree, please refrain from using the app."
+      },
+      "useOfService": {
+        "title": "Use of Service",
+        "content": "The Serene Spa app is provided for personal use to book spa services, manage appointments, and access related features. You agree to use the app only for lawful purposes."
+      },
+      "userResponsibilities": {
+        "title": "User Responsibilities",
+        "content": "You are responsible for maintaining the confidentiality of your account credentials and for all activities under your account. You must provide accurate and complete information when using the app."
+      },
+      "termination": {
+        "title": "Termination",
+        "content": "We reserve the right to suspend or terminate your access to the app at our discretion, especially in cases of violation of these terms or misuse of the service."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "Serene Spa is not liable for any damages arising from your use of the app, including but not limited to service interruptions or data loss, except as required by law."
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "We may update these Terms of Service periodically. Changes will be posted on this page, and continued use of the app constitutes acceptance. For questions, contact us at {support_email}.",
+        "support_email": "support@serenespa.com"
+      }
     }
+  },
+  "vi": {
+    "title": "Điều khoản sử dụng",
+    "description": "Bằng cách sử dụng ứng dụng Serene Spa, bạn đồng ý với các điều khoản và điều kiện sau đây, những điều khoản này chi phối việc sử dụng dịch vụ của chúng tôi.",
+    "sections": {
+      "acceptance": {
+        "title": "Chấp nhận điều khoản",
+        "content": "Bằng cách truy cập hoặc sử dụng ứng dụng Serene Spa, bạn đồng ý bị ràng buộc bởi các Điều khoản sử dụng này. Nếu bạn không đồng ý, vui lòng không sử dụng ứng dụng."
+      },
+      "useOfService": {
+        "title": "Sử dụng dịch vụ",
+        "content": "Ứng dụng Serene Spa được cung cấp để sử dụng cá nhân nhằm đặt dịch vụ spa, quản lý lịch hẹn và truy cập các tính năng liên quan. Bạn đồng ý chỉ sử dụng ứng dụng cho các mục đích hợp pháp."
+      },
+      "userResponsibilities": {
+        "title": "Trách nhiệm của người dùng",
+        "content": "Bạn chịu trách nhiệm duy trì tính bảo mật của thông tin đăng nhập tài khoản và cho tất cả các hoạt động dưới tài khoản của bạn. Bạn phải cung cấp thông tin chính xác và đầy đủ khi sử dụng ứng dụng."
+      },
+      "termination": {
+        "title": "Chấm dứt",
+        "content": "Chúng tôi có quyền tạm ngưng hoặc chấm dứt quyền truy cập của bạn vào ứng dụng theo quyết định của chúng tôi, đặc biệt trong trường hợp vi phạm các điều khoản này hoặc sử dụng sai dịch vụ."
+      },
+      "liability": {
+        "title": "Giới hạn trách nhiệm",
+        "content": "Serene Spa không chịu trách nhiệm cho bất kỳ thiệt hại nào phát sinh từ việc sử dụng ứng dụng của bạn, bao gồm nhưng không giới hạn ở gián đoạn dịch vụ hoặc mất dữ liệu, trừ khi pháp luật yêu cầu."
+      },
+      "changes": {
+        "title": "Thay đổi điều khoản",
+        "content": "Chúng tôi có thể cập nhật các Điều khoản sử dụng này định kỳ. Các thay đổi sẽ được đăng trên trang này, và việc tiếp tục sử dụng ứng dụng đồng nghĩa với việc chấp nhận. Để biết thêm chi tiết, liên hệ với chúng tôi tại {support_email}.",
+        "support_email": "hotro@serenespa.com"
+      }
+    }
+  }
 }

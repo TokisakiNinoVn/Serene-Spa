@@ -1,22 +1,80 @@
 {
-    "en": {
-        "title": "Welcome to My App Policies",
-        "description":
-            "This website provides information about our terms of use, privacy policy, and customer support for users of the mobile app.",
-        "buttons": {
-            "privacy": "Privacy Policy",
-            "terms": "Terms of Service",
-            "support": "Support"
-        }
+  "en": {
+    "title": "Welcome to Serene Spa Policies",
+    "description": "This website provides information about our terms of use, privacy policy, and customer support for users of the Serene Spa mobile app.",
+    "buttons": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "support": "Support"
     },
-    "vi": {
-        "title": "Chào mừng bạn đến với chính sách ứng dụng",
-        "description":
-            "Trang web này cung cấp thông tin về điều khoản sử dụng, chính sách bảo mật và hỗ trợ khách hàng cho người dùng ứng dụng di động.",
-        "buttons": {
-            "privacy": "Chính sách bảo mật",
-            "terms": "Điều khoản sử dụng",
-            "support": "Hỗ trợ"
-        }
+    "sections": {
+      "commitment": {
+        "title": "Our Commitment to Your Privacy",
+        "content": "At Serene Spa, we are dedicated to protecting your personal information and ensuring transparency in how we handle your data."
+      },
+      "dataCollection": {
+        "title": "Data We Collect",
+        "content": "We collect information you provide during account creation, appointment bookings, or when contacting support. This includes your name, email, phone number, and payment details."
+      },
+      "dataUsage": {
+        "title": "How We Use Your Data",
+        "content": "Your information is used to process bookings, personalize your experience, improve our services, and communicate updates or promotions. We do not share your data with third parties without your consent, except as required by law."
+      },
+      "dataProtection": {
+        "title": "Data Protection Measures",
+        "content": "We employ industry-standard security practices, including encryption and secure servers, to safeguard your data. While we strive to protect your information, no system is entirely risk-free, so we recommend using strong passwords."
+      },
+      "cookies": {
+        "title": "Cookies and Tracking",
+        "content": "Our app uses cookies to enhance user experience and analyze usage patterns. You can manage cookie preferences through your device settings."
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, update, or delete your personal information. For any privacy concerns or to exercise these rights, contact us at {support_email}."
+      },
+      "updates": {
+        "title": "Policy Updates",
+        "content": "We may update this privacy policy periodically. Changes will be posted on this page, and we encourage you to review it regularly."
+      }
     }
+  },
+  "vi": {
+    "title": "Chào mừng bạn đến với chính sách của Serene Spa",
+    "description": "Trang web này cung cấp thông tin về điều khoản sử dụng, chính sách bảo mật và hỗ trợ khách hàng cho người dùng ứng dụng di động Serene Spa.",
+    "buttons": {
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản sử dụng",
+      "support": "Hỗ trợ"
+    },
+    "sections": {
+      "commitment": {
+        "title": "Cam kết bảo vệ quyền riêng tư của bạn",
+        "content": "Tại Serene Spa, chúng tôi cam kết bảo vệ thông tin cá nhân của bạn và đảm bảo sự minh bạch trong cách chúng tôi xử lý dữ liệu."
+      },
+      "dataCollection": {
+        "title": "Dữ liệu chúng tôi thu thập",
+        "content": "Chúng tôi thu thập thông tin bạn cung cấp khi tạo tài khoản, đặt lịch hẹn hoặc liên hệ hỗ trợ. Thông tin này bao gồm tên, email, số điện thoại và chi tiết thanh toán."
+      },
+      "dataUsage": {
+        "title": "Cách chúng tôi sử dụng dữ liệu của bạn",
+        "content": "Thông tin của bạn được sử dụng để xử lý đặt lịch, cá nhân hóa trải nghiệm, cải thiện dịch vụ và thông báo cập nhật hoặc khuyến mãi. Chúng tôi không chia sẻ dữ liệu của bạn với bên thứ ba mà không có sự đồng ý của bạn, trừ khi pháp luật yêu cầu."
+      },
+      "dataProtection": {
+        "title": "Biện pháp bảo vệ dữ liệu",
+        "content": "Chúng tôi áp dụng các biện pháp bảo mật tiêu chuẩn ngành, bao gồm mã hóa và máy chủ an toàn, để bảo vệ dữ liệu của bạn. Mặc dù chúng tôi nỗ lực bảo vệ thông tin, không có hệ thống nào hoàn toàn không có rủi ro, vì vậy chúng tôi khuyến nghị sử dụng mật khẩu mạnh."
+      },
+      "cookies": {
+        "title": "Cookies và theo dõi",
+        "content": "Ứng dụng của chúng tôi sử dụng cookies để nâng cao trải nghiệm người dùng và phân tích mô hình sử dụng. Bạn có thể quản lý tùy chọn cookie qua cài đặt thiết bị."
+      },
+      "yourRights": {
+        "title": "Quyền của bạn",
+        "content": "Bạn có quyền truy cập, cập nhật hoặc xóa thông tin cá nhân của mình. Để giải quyết các mối quan ngại về quyền riêng tư hoặc thực hiện các quyền này, liên hệ với chúng tôi tại {support_email}."
+      },
+      "updates": {
+        "title": "Cập nhật chính sách",
+        "content": "Chúng tôi có thể cập nhật chính sách bảo mật này định kỳ. Các thay đổi sẽ được đăng trên trang này, và chúng tôi khuyến khích bạn xem lại thường xuyên."
+      }
+    }
+  }
 }

@@ -1,0 +1,68 @@
+{
+  "en": {
+    "title": "Support Center",
+    "description": "Welcome to the Serene Spa Support Center. Find help with your app-related queries, from booking issues to account management.",
+    "sections": {
+      "contactUs": {
+        "title": "Contact Us",
+        "content": "If you have questions or need assistance, our support team is here to help. Reach out to us via email for prompt assistance.",
+        "email": "support@serenespa.com"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "content": "Below are answers to some common questions to help you get started or resolve issues quickly.",
+        "items": {
+          "booking": {
+            "title": "How do I book an appointment?",
+            "content": "You can book an appointment directly through the Serene Spa app by selecting your preferred service, date, and time."
+          },
+          "account": {
+            "title": "How do I update my account information?",
+            "content": "Go to the 'Profile' section in the app to update your personal details, such as name, email, or phone number."
+          },
+          "payment": {
+            "title": "What payment methods are accepted?",
+            "content": "We accept major credit cards, debit cards, and select digital payment methods available in the app."
+          }
+        }
+      },
+      "liveSupport": {
+        "title": "Live Support",
+        "content": "For urgent issues, our live chat support is available within the app during business hours (9 AM - 6 PM, Monday to Friday)."
+      }
+    }
+  },
+  "vi": {
+    "title": "Trung tâm hỗ trợ",
+    "description": "Chào mừng bạn đến với Trung tâm Hỗ trợ Serene Spa. Tìm kiếm sự hỗ trợ cho các thắc mắc liên quan đến ứng dụng, từ vấn đề đặt lịch đến quản lý tài khoản.",
+    "sections": {
+      "contactUs": {
+        "title": "Liên hệ với chúng tôi",
+        "content": "Nếu bạn có câu hỏi hoặc cần hỗ trợ, đội ngũ hỗ trợ của chúng tôi luôn sẵn sàng. Liên hệ qua email để được hỗ trợ nhanh chóng.",
+        "email": "hotro@serenespa.com"
+      },
+      "faq": {
+        "title": "Câu hỏi thường gặp",
+        "content": "Dưới đây là câu trả lời cho một số câu hỏi phổ biến để giúp bạn bắt đầu hoặc giải quyết vấn đề nhanh chóng.",
+        "items": {
+          "booking": {
+            "title": "Làm thế nào để đặt lịch hẹn?",
+            "content": "Bạn có thể đặt lịch hẹn trực tiếp qua ứng dụng Serene Spa bằng cách chọn dịch vụ, ngày và giờ mong muốn."
+          },
+          "account": {
+            "title": "Làm thế nào để cập nhật thông tin tài khoản?",
+            "content": "Vào phần 'Hồ sơ' trong ứng dụng để cập nhật thông tin cá nhân như tên, email hoặc số điện thoại."
+          },
+          "payment": {
+            "title": "Phương thức thanh toán nào được chấp nhận?",
+            "content": "Chúng tôi chấp nhận các loại thẻ tín dụng, thẻ ghi nợ và một số phương thức thanh toán số có sẵn trong ứng dụng."
+          }
+        }
+      },
+      "liveSupport": {
+        "title": "Hỗ trợ trực tiếp",
+        "content": "Đối với các vấn đề khẩn cấp, hỗ trợ qua trò chuyện trực tiếp có sẵn trong ứng dụng trong giờ làm việc (9:00 - 18:00, Thứ Hai đến Thứ Sáu)."
+      }
+    }
+  }
+}
